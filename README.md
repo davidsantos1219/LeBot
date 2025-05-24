@@ -1,4 +1,4 @@
-# BumBot
+# LeBot
 Automated Chatbot that talks to other individuals through different personalities.
 
 # Features
